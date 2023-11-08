@@ -1,0 +1,106 @@
+.page-corousal-image{
+   width:80vh;
+     
+}
+.index-page-container{
+    height:100vh;
+}
+.index-bottom-page-background{
+    
+    padding-top:40px;
+    padding-bottom:40px;
+    background-color:white;
+    text-align:center;
+    justify-content:center;
+}
+.index-bottom-page-heading{
+    font-size:32px;
+    
+}
+.models-container{
+    margin-top:20px;
+
+}
+.model-heading{
+    font-size:27px;
+    text-align:center;
+    margin-top:8px;  
+}
+.index-bottom-page-description{
+    font-size:18px;
+    text-align:center;
+}
+.model-container-round-icon{
+    background-color:#42f5bf;
+    border-radius:50px;
+    height:100px;
+    width:100px;
+    
+}
+.model-container{
+    text-align:center;
+    width:250px;
+    
+
+    padding:10px;
+}
+.home-page-navbar-and-footer-bg-container{
+    background-color:#3b7a50;
+    padding:20px;
+}
+.home-page-heading{
+    font-size:30px;
+}
+.home-page-description{
+    font-size:18px;
+}
+
+.home-page-text-container{
+    padding:30px;
+    width:80%;
+    
+}
+.home-page-footer-card-container{
+    color:white;
+    
+    width:250px;
+}
+.about-page-container{
+    padding:20px;
+}
+.about-page-img-container{
+    width:35vw;
+    height:100%;
+    margin-right:10px;
+}
+.about-page-footer-container{
+    background-color:#3b7a50;
+    height:30px;
+    
+}
+.about-page-leaf-img{
+    
+    border-width:0px;
+    border-radius:15px;
+}
+.about-page-text-container{
+    padding-top:20px;
+    width:45vw;
+    
+}
+.home-page-footer-description{
+  font-size:14px;
+  color:white;
+}
+.about-page-heading{
+    font-size:26px;
+}
+.about-page-description{
+    font-size:16px;
+}
+.pred-page-container{
+    height:100vh;
+}
+.pred-page-text-container{
+  height:100%;
+}
